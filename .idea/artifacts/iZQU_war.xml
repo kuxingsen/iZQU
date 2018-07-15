@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="iZQU:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="LeaveBack.war">
+      <element id="artifact" artifact-name="iZQU:war exploded" />
+    </root>
+  </artifact>
+</component>
